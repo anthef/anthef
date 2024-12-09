@@ -44,7 +44,7 @@
 <table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
   <tr>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
-      <a href="https://open.spotify.com/user/Anthonyef" class="spotify-logo">
+      <a href="https://open.spotify.com/user/jqltb3qtm6d1j70w2rszaoj9r?si=9defc9a8ab984bcf" class="spotify-logo">
         <img src="https://github.com/user-attachments/assets/84c1806d-29a5-461c-874a-df2aba165c4f" alt="Spotify" width="150" height="150"/>
       </a>
     </td>
