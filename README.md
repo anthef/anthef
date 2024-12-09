@@ -11,7 +11,6 @@
 
 - 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/anthony-edbert-feriyanto)**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anthony-edbert-feriyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-edbert-feriyanto" height="30" width="40" /></a>
@@ -19,7 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- Add icons for the languages and tools you use -->
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
@@ -38,3 +36,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthef&show_icons=true&locale=en" alt="anthef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthef&" alt="anthef" /></p>
+
+---
+
+<h2 align="center">🎶 Now Playing on Spotify 🎶</h2>
+
+<table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
+  <tr>
+    <td style="text-align: center; vertical-align: top; padding: 10px;">
+      <a href="https://open.spotify.com/user/Anthonyef" class="spotify-logo">
+        <img src="https://github.com/user-attachments/assets/84c1806d-29a5-461c-874a-df2aba165c4f" alt="Spotify" width="150" height="150"/>
+      </a>
+    </td>
+    <td style="text-align: center; vertical-align: top; padding: 10px;">
+      <a href="https://open.spotify.com/user/Anthonyef">
+        <img src="https://novatorem-Anthonyef.vercel.app/api/spotify/?background_color=121212&border_color=1DB954" alt="Spotify Now Playing" width="500" style="border-radius: 10px; border: 2px solid #1DB954; box-shadow: 0px 0px 40px 15px rgba(29, 185, 84, 0.7);"/>
+      </a>
+    </td>
+  </tr>
+</table>
