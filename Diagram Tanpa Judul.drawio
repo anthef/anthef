@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="2">
   <diagram name="Sequence Diagram" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2111" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,12 +360,12 @@
             <mxPoint x="265.0000000000001" y="1441" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-106" value="Member memilih untuk filter&lt;br&gt;berdasarkan frekuensi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1PsG3DPSKGsqhwpxRcXS-105">
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-106" value="Member memilih untuk filter&lt;br&gt;berdasarkan waktu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1PsG3DPSKGsqhwpxRcXS-105">
           <mxGeometry x="-0.0713" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-107" value="[if filter berdasarkan frekuensi]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-107" value="[if filter berdasarkan waktu]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="61" y="1379" width="203" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-108" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;[if hasil filter tidak kosong]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -445,7 +445,7 @@
             <mxPoint x="806" y="1478.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-126" value="&lt;span style=&quot;font-size: 9px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;getKebiasaanByFrekuensi(frekuensi)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1PsG3DPSKGsqhwpxRcXS-125">
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-126" value="&lt;span style=&quot;font-size: 9px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;getKebiasaanByWaktu(waktu)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1PsG3DPSKGsqhwpxRcXS-125">
           <mxGeometry x="-0.0473" y="2" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
