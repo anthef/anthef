@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="2">
   <diagram name="Sequence Diagram" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2033" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
           <mxGeometry x="56" y="598" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cxTChV-RaUSJOlAUu8x--64" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;[hasil filter kosong]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="56" y="834" width="90" height="30" as="geometry" />
+          <mxGeometry x="56" y="864" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-2" value=":ListKebiasaan" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="490" y="40" width="100" height="950" as="geometry" />
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxTChV-RaUSJOlAUu8x--61" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="600" width="890" height="310" as="geometry" />
+          <mxGeometry x="-10" y="600" width="890" height="330" as="geometry" />
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-26" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;startFill=0;dashed=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,13 +152,13 @@
         </mxCell>
         <mxCell id="cxTChV-RaUSJOlAUu8x--63" value="" style="endArrow=none;html=1;rounded=0;dashed=1;exitX=0.004;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-7.680000000000064" y="840" as="sourcePoint" />
-            <mxPoint x="880" y="840" as="targetPoint" />
+            <mxPoint x="-7.680000000000064" y="866" as="sourcePoint" />
+            <mxPoint x="880" y="866" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-70" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry y="670" width="860" height="80" as="geometry" />
+          <mxGeometry y="670" width="860" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-71" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -171,16 +171,16 @@
             <mxPoint x="6" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-73" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;[if member ingin mengaktifkan reminder]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="663" width="211" height="30" as="geometry" />
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-73" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;[if member ingin mengaktifkan reminder pada&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;kebiasaan]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="54" y="672" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-74" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="0.5" y="757" width="859.5" height="70" as="geometry" />
+          <mxGeometry x="0.5" y="787" width="859.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-75" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60.5" y="801.55" as="sourcePoint" />
-            <mxPoint x="265.5000000000001" y="801.55" as="targetPoint" />
+            <mxPoint x="60.5" y="841.55" as="sourcePoint" />
+            <mxPoint x="265.5000000000001" y="841.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-76" value="klik kebiasaan yang diinginkan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1PsG3DPSKGsqhwpxRcXS-75" vertex="1" connectable="0">
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-77" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;[if member ingin melihat detail kebiasaan]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40.5" y="750" width="211" height="30" as="geometry" />
+          <mxGeometry x="43.5" y="782" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8TN5Eyj_qKKtU5JrcfEj-1" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;startFill=0;dashed=1;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -215,13 +215,13 @@
         </mxCell>
         <mxCell id="8TN5Eyj_qKKtU5JrcfEj-8" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="275" y="729.52" as="sourcePoint" />
-            <mxPoint x="535" y="729.52" as="targetPoint" />
+            <mxPoint x="275" y="727.52" as="sourcePoint" />
+            <mxPoint x="535" y="727.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TN5Eyj_qKKtU5JrcfEj-9" value="mengaktifkanReminder(kebiasaan)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8TN5Eyj_qKKtU5JrcfEj-8">
+        <mxCell id="8TN5Eyj_qKKtU5JrcfEj-9" value="mengaktifkanReminder(kebiasaanId)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8TN5Eyj_qKKtU5JrcfEj-8">
           <mxGeometry x="-0.0713" y="3" relative="1" as="geometry">
-            <mxPoint x="6" y="1" as="offset" />
+            <mxPoint x="6" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8TN5Eyj_qKKtU5JrcfEj-10" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;startFill=0;endFill=1;" edge="1" parent="1">
@@ -293,21 +293,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2gk_gr1P7DV546wr1-rM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="860" width="10" height="35" as="geometry" />
+          <mxGeometry x="270" y="890" width="10" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2gk_gr1P7DV546wr1-rM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="871.75" as="sourcePoint" />
-            <mxPoint x="280" y="889.25" as="targetPoint" />
+            <mxPoint x="280" y="901.75" as="sourcePoint" />
+            <mxPoint x="280" y="919.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="872" />
-              <mxPoint x="530" y="889" />
+              <mxPoint x="530" y="902" />
+              <mxPoint x="530" y="919" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2gk_gr1P7DV546wr1-rM-15" value="showMessage(&quot;tidak ada kebiasaan yang cocok&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2gk_gr1P7DV546wr1-rM-14">
           <mxGeometry x="-0.5576" y="1" relative="1" as="geometry">
             <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2gk_gr1P7DV546wr1-rM-16" value="Asumsi: jika filter kosong, maka tidak dapat mengaktifkan reminder/melihat detail kebiasaan (extension use case). maka, terdapat alt untuk hasil filter" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="635" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2gk_gr1P7DV546wr1-rM-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2gk_gr1P7DV546wr1-rM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="751.75" as="sourcePoint" />
+            <mxPoint x="280" y="769.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="752" />
+              <mxPoint x="460" y="769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2gk_gr1P7DV546wr1-rM-21" value="showNotification(&quot;reminder aktif&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2gk_gr1P7DV546wr1-rM-20">
+          <mxGeometry x="-0.5576" y="1" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
