@@ -439,7 +439,7 @@
         <mxCell id="-srOf0Gmkdkw9Zle91gV-29" value=":Kebiasaan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1625" y="432.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-srOf0Gmkdkw9Zle91gV-31" value="1.2.1: isDalamBulan(currentMonth)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="-srOf0Gmkdkw9Zle91gV-31" value="1.2.1: getKebiasaan()" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1405" y="355" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-srOf0Gmkdkw9Zle91gV-32" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;" edge="1" parent="1">
@@ -500,7 +500,7 @@
           <mxGeometry y="60" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-srOf0Gmkdkw9Zle91gV-54" value="Kebiasaan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-500" width="300" height="300" as="geometry" />
+          <mxGeometry x="900" y="-500" width="300" height="340" as="geometry" />
         </mxCell>
         <mxCell id="-srOf0Gmkdkw9Zle91gV-57" value="- idKebiasaan: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-srOf0Gmkdkw9Zle91gV-54">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
@@ -532,8 +532,11 @@
         <mxCell id="-srOf0Gmkdkw9Zle91gV-55" value="+ setReminder(status: boolean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-srOf0Gmkdkw9Zle91gV-54">
           <mxGeometry y="240" width="300" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-srOf0Gmkdkw9Zle91gV-65" value="+ getKebiasaan(): Kebiasaan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-srOf0Gmkdkw9Zle91gV-54">
+          <mxGeometry y="270" width="300" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="-srOf0Gmkdkw9Zle91gV-64" value="+ getDetailKebiasaan(): DetailKebiasaan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-srOf0Gmkdkw9Zle91gV-54">
-          <mxGeometry y="270" width="300" height="30" as="geometry" />
+          <mxGeometry y="310" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
