@@ -25,7 +25,7 @@
             <mxPoint x="265.0000000000001" y="141" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-1" value="Member klik&lt;br&gt;daftar kebiasaan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxTChV-RaUSJOlAUu8x--12">
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-1" value="Klik&lt;br&gt;daftar kebiasaan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxTChV-RaUSJOlAUu8x--12">
           <mxGeometry x="-0.0699" y="1" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
