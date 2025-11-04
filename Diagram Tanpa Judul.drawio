@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="2">
   <diagram name="Sequence Diagram" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1526" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1751" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             <mxPoint x="265.0000000000001" y="141" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-1" value="Member memilih untuk melihat&lt;br&gt;daftar kebiasaan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxTChV-RaUSJOlAUu8x--12">
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-1" value="Member klik&lt;br&gt;daftar kebiasaan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxTChV-RaUSJOlAUu8x--12">
           <mxGeometry x="-0.0699" y="1" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
