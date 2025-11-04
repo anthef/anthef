@@ -414,9 +414,6 @@
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-118" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;[if member ingin melihat detail kebiasaan]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40.5" y="1619" width="211" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1PsG3DPSKGsqhwpxRcXS-119" value="Menekan &quot;Aktifkan Reminder&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="159.66666666666652" y="1588.4399999999998" as="geometry" />
-        </mxCell>
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-120" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="1669" as="sourcePoint" />
@@ -462,6 +459,17 @@
         <mxCell id="1PsG3DPSKGsqhwpxRcXS-129" value="&lt;span style=&quot;font-size: 9px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;tampilkanDaftarKebiasaan(daftarKebiasaan[])&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1PsG3DPSKGsqhwpxRcXS-128">
           <mxGeometry x="-0.3372" relative="1" as="geometry">
             <mxPoint x="-39" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-130" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61" y="1590" as="sourcePoint" />
+            <mxPoint x="266.0000000000001" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PsG3DPSKGsqhwpxRcXS-131" value="Menekan &quot;Aktifkan Reminder&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1PsG3DPSKGsqhwpxRcXS-130">
+          <mxGeometry x="-0.0713" y="3" relative="1" as="geometry">
+            <mxPoint x="6" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
