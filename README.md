@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=FFB300&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Anthony+Edbert+Feriyanto!;Fullstack+Tech+Wizard+%7C+AI+Challenger+%7C+Mobile+Craftsman+%F0%9F%A4%A9;Next.js+%7C+Golang+%7C+NestJS+%7C+Flutter+%7C+Let%27s+Build+the+Future!+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=FFB300&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Anthony+Edbert+Feriyanto+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Mobile+Enthusiast;Hackathon+Builder+%7C+Cloud+Native+Explorer;Welcome+to+my+digital+space+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,28 +78,6 @@
 
 ---
 
-<h2 align="center">🚩 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/anthef/onmywaytobigtech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthef&repo=onmywaytobigtech&theme=highcontrast&show_owner=true" />
-  </a>
-  <a href="https://github.com/labmino/mobile-expo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labmino&repo=mobile-expo&theme=highcontrast&show_owner=true" />
-  </a>
-  <a href="https://github.com/anthef/sidating-app-be">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthef&repo=sidating-app-be&theme=highcontrast" />
-  </a>
-  <a href="https://github.com/anthef/Satria-Data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthef&repo=Satria-Data&theme=highcontrast" />
-  </a>
-  <a href="https://github.com/absolutepraya/bkui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=absolutepraya&repo=bkui&theme=highcontrast" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🏆 Achievements & GitHub Stats</h2>
 
 <p align="center">
@@ -148,5 +126,5 @@
 </details>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FFD600&center=true&vCenter=true&width=700&lines=Dream+Big.+Ship+Fast.+Stay+Curious+%F0%9F%9A%80;Let%27s+build+something+awesome+together!" alt="Bottom Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FFD600&center=true&vCenter=true&width=700&lines=Dream+Big.+Ship+Fast.+Stay+Curious+%F0%9F%9A%80" alt="footer typing"/>
 </p>
