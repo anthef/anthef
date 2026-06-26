@@ -1,9 +1,3 @@
-<!-- Banner (gantikan dengan GIF/banner custom sendiri untuk lebih personal) -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" style="border-radius:12px;"/>
-</p>
-
-
 <p align="center">
   <a href="https://anthonyef.website/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Website-anthonyef.website-00b894?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -24,7 +18,7 @@
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd4M2h6dG5wOW9kN3Z6eXJmNmFnb2Y1ZzRudGJqb3l1bXk5Z3NnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="55" />
