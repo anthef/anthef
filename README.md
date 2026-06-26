@@ -3,9 +3,6 @@
   <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" style="border-radius:12px;"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1200&color=FFB300&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Anthony+Edbert+Feriyanto+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Mobile+Enthusiast;Hackathon+Builder+%7C+Cloud+Native+Explorer;Welcome+to+my+digital+space+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://anthonyef.website/" target="_blank">
@@ -23,7 +20,6 @@
   <a href="https://github.com/sponsors/anthef" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=githubsponsors"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=anthef&label=Profile+views&color=0e75b6&style=for-the-badge" alt="anthef" />
 </p>
 
 ---
@@ -113,17 +109,6 @@
 
 ---
 
-<details>
-  <summary><b>🧊 Fun Fact / Easter Egg (klik aku!)</b></summary>
-  <p align="center">
-    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="120"/><br>
-    <i>
-      Secret Dev Mode Unlocked!<br>
-      <b>Did you know?</b> Sometimes I code just to see what chaos I can create.<br>
-      <b>Hidden motto:</b> "Build. Break. Learn. Repeat. 🚀"
-    </i>
-  </p>
-</details>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FFD600&center=true&vCenter=true&width=700&lines=Dream+Big.+Ship+Fast.+Stay+Curious+%F0%9F%9A%80" alt="footer typing"/>
