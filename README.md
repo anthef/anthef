@@ -1,109 +1,69 @@
-<p align="center">
-  <a href="https://anthonyef.website/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Website-anthonyef.website-00b894?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/anthony-edbert-feriyanto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anthony%20Edbert%20Feriyanto-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://dev.to/anthef" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-@anthef-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@anthef" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-@anthef-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sponsors/anthef" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=githubsponsors"/>
-  </a>
-</p>
+<div align="center">
+
+# Hi, I'm Anthef 👋
+
+### Software Engineer · Product Engineer · AI Engineer
+
+Building impactful things with code ⚡
+
+[![Profile Views](https://komarev.com/ghpvc/?username=anthef&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/anthef)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anthef)
+
+</div>
 
 ---
 
-<h2 align="center">About Me</h2>
+### 🛠️ Tech I work with
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd4M2h6dG5wOW9kN3Z6eXJmNmFnb2Y1ZzRudGJqb3l1bXk5Z3NnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="55" />
-</p>
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-<p align="center">
-  <strong>🚀 Fullstack Engineer, Data Science Explorer, AI & Mobile Developer.</strong><br>
-  <strong>🔭 Always hacking new ideas: from <span style="color:#F6A700;">AI</span> to <span style="color:#00BFAE;">cloud-native</span> apps.</strong><br>
-  <strong>🏆 Finalist & Winner of multiple hackathons — <i>“Build fast, break limits!”</i></strong><br>
-  <br>
-  <em>“Dream big. Ship fast. Stay curious.”</em>
-</p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<h2 align="center">🦾 Tech Arsenal</h2>
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="44" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="44" title="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="44" title="Golang"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="44" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" title="CSS3"/>
-</p>
+**Data & Infra**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-<h2 align="center">🎯 Focus & What I'm Up To</h2>
+### 🚀 What I focus on
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠%20Learning-Generative%20AI%2FML-7B1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20Building-Fullstack%20Apps-00BFAE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀%20Experimenting-Cloud%20Native-1976D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨%20Exploring-UI%2FUX%20Design-F48FB1?style=for-the-badge" />
-</p>
+- Building scalable full-stack applications
+- Shipping AI-powered product features
+- Designing clean architecture & maintainable systems
+- Performance, reliability, and developer experience
 
 ---
 
-<h2 align="center">🏆 Achievements & GitHub Stats</h2>
+### 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anthef&theme=discord&no-frame=true&margin-w=9" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=anthef&show_icons=true&theme=highcontrast&hide_title=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthef&layout=compact&langs_count=8&theme=highcontrast" height="170"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthef&theme=highcontrast"/>
-</p>
+<div align="center">
 
----
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=anthef&theme=tokyonight&hide_border=true" />
+</a>
 
-<h2 align="center">🌏 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://anthonyef.website/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20anthonyef.website-00b894?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/anthony-edbert-feriyanto">
-    <img src="https://img.shields.io/badge/LinkedIn-Anthony%20Edbert%20Feriyanto-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://dev.to/anthef" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-@anthef-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@anthef" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-@anthef-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sponsors/anthef" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=githubsponsors"/>
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FFD600&center=true&vCenter=true&width=700&lines=Dream+Big.+Ship+Fast.+Stay+Curious+%F0%9F%9A%80" alt="footer typing"/>
-</p>
+</div>
